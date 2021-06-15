@@ -1,0 +1,55 @@
+PING 192.168.3.1 (192.168.3.1) 56(84) bytes of data.
+64 bytes from 192.168.3.1: icmp_seq=1 ttl=60 time=0.107 ms
+64 bytes from 192.168.3.1: icmp_seq=2 ttl=60 time=0.167 ms
+64 bytes from 192.168.3.1: icmp_seq=3 ttl=60 time=0.103 ms
+64 bytes from 192.168.3.1: icmp_seq=4 ttl=60 time=0.095 ms
+64 bytes from 192.168.3.1: icmp_seq=5 ttl=60 time=0.102 ms
+64 bytes from 192.168.3.1: icmp_seq=6 ttl=60 time=0.131 ms
+64 bytes from 192.168.3.1: icmp_seq=7 ttl=60 time=0.116 ms
+64 bytes from 192.168.3.1: icmp_seq=8 ttl=60 time=0.132 ms
+64 bytes from 192.168.3.1: icmp_seq=9 ttl=60 time=0.091 ms
+64 bytes from 192.168.3.1: icmp_seq=10 ttl=60 time=0.090 ms
+64 bytes from 192.168.3.1: icmp_seq=11 ttl=60 time=0.099 ms
+64 bytes from 192.168.3.1: icmp_seq=12 ttl=60 time=0.099 ms
+64 bytes from 192.168.3.1: icmp_seq=13 ttl=60 time=0.094 ms
+64 bytes from 192.168.3.1: icmp_seq=14 ttl=60 time=0.109 ms
+64 bytes from 192.168.3.1: icmp_seq=15 ttl=60 time=0.098 ms
+64 bytes from 192.168.3.1: icmp_seq=16 ttl=60 time=0.092 ms
+64 bytes from 192.168.3.1: icmp_seq=17 ttl=60 time=0.080 ms
+64 bytes from 192.168.3.1: icmp_seq=18 ttl=60 time=0.095 ms
+64 bytes from 192.168.3.1: icmp_seq=19 ttl=60 time=0.100 ms
+64 bytes from 192.168.3.1: icmp_seq=20 ttl=60 time=0.115 ms
+64 bytes from 192.168.3.1: icmp_seq=21 ttl=60 time=0.101 ms
+64 bytes from 192.168.3.1: icmp_seq=22 ttl=60 time=0.090 ms
+64 bytes from 192.168.3.1: icmp_seq=23 ttl=60 time=0.147 ms
+64 bytes from 192.168.3.1: icmp_seq=24 ttl=60 time=0.131 ms
+64 bytes from 192.168.3.1: icmp_seq=25 ttl=60 time=0.110 ms
+64 bytes from 192.168.3.1: icmp_seq=26 ttl=60 time=0.101 ms
+64 bytes from 192.168.3.1: icmp_seq=27 ttl=60 time=0.115 ms
+64 bytes from 192.168.3.1: icmp_seq=28 ttl=60 time=0.097 ms
+64 bytes from 192.168.3.1: icmp_seq=29 ttl=60 time=0.114 ms
+64 bytes from 192.168.3.1: icmp_seq=30 ttl=60 time=0.108 ms
+64 bytes from 192.168.3.1: icmp_seq=31 ttl=60 time=0.107 ms
+64 bytes from 192.168.3.1: icmp_seq=32 ttl=60 time=0.087 ms
+64 bytes from 192.168.3.1: icmp_seq=33 ttl=60 time=0.105 ms
+64 bytes from 192.168.3.1: icmp_seq=34 ttl=60 time=0.111 ms
+64 bytes from 192.168.3.1: icmp_seq=35 ttl=60 time=0.106 ms
+64 bytes from 192.168.3.1: icmp_seq=36 ttl=60 time=0.099 ms
+64 bytes from 192.168.3.1: icmp_seq=37 ttl=60 time=0.115 ms
+64 bytes from 192.168.3.1: icmp_seq=38 ttl=60 time=0.108 ms
+64 bytes from 192.168.3.1: icmp_seq=39 ttl=60 time=0.113 ms
+64 bytes from 192.168.3.1: icmp_seq=40 ttl=60 time=0.097 ms
+64 bytes from 192.168.3.1: icmp_seq=41 ttl=60 time=0.109 ms
+64 bytes from 192.168.3.1: icmp_seq=42 ttl=60 time=0.082 ms
+64 bytes from 192.168.3.1: icmp_seq=43 ttl=60 time=0.090 ms
+64 bytes from 192.168.3.1: icmp_seq=44 ttl=60 time=0.113 ms
+64 bytes from 192.168.3.1: icmp_seq=45 ttl=60 time=0.090 ms
+64 bytes from 192.168.3.1: icmp_seq=46 ttl=60 time=0.243 ms
+64 bytes from 192.168.3.1: icmp_seq=47 ttl=60 time=0.162 ms
+64 bytes from 192.168.3.1: icmp_seq=48 ttl=60 time=0.118 ms
+64 bytes from 192.168.3.1: icmp_seq=49 ttl=60 time=0.148 ms
+64 bytes from 192.168.3.1: icmp_seq=50 ttl=60 time=0.100 ms
+
+--- 192.168.3.1 ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49426ms
+rtt min/avg/max/mdev = 0.080/0.110/0.243/0.028 ms

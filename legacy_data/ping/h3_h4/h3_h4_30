@@ -1,0 +1,35 @@
+PING 192.168.4.1 (192.168.4.1) 56(84) bytes of data.
+64 bytes from 192.168.4.1: icmp_seq=1 ttl=61 time=0.122 ms
+64 bytes from 192.168.4.1: icmp_seq=2 ttl=61 time=0.094 ms
+64 bytes from 192.168.4.1: icmp_seq=3 ttl=61 time=0.285 ms
+64 bytes from 192.168.4.1: icmp_seq=4 ttl=61 time=0.084 ms
+64 bytes from 192.168.4.1: icmp_seq=5 ttl=61 time=0.119 ms
+64 bytes from 192.168.4.1: icmp_seq=6 ttl=61 time=0.092 ms
+64 bytes from 192.168.4.1: icmp_seq=7 ttl=61 time=0.103 ms
+64 bytes from 192.168.4.1: icmp_seq=8 ttl=61 time=0.072 ms
+64 bytes from 192.168.4.1: icmp_seq=9 ttl=61 time=0.096 ms
+64 bytes from 192.168.4.1: icmp_seq=10 ttl=61 time=0.121 ms
+64 bytes from 192.168.4.1: icmp_seq=11 ttl=61 time=0.089 ms
+64 bytes from 192.168.4.1: icmp_seq=12 ttl=61 time=0.076 ms
+64 bytes from 192.168.4.1: icmp_seq=13 ttl=61 time=0.083 ms
+64 bytes from 192.168.4.1: icmp_seq=14 ttl=61 time=0.087 ms
+64 bytes from 192.168.4.1: icmp_seq=15 ttl=61 time=0.086 ms
+64 bytes from 192.168.4.1: icmp_seq=16 ttl=61 time=0.090 ms
+64 bytes from 192.168.4.1: icmp_seq=17 ttl=61 time=0.079 ms
+64 bytes from 192.168.4.1: icmp_seq=18 ttl=61 time=0.072 ms
+64 bytes from 192.168.4.1: icmp_seq=19 ttl=61 time=0.094 ms
+64 bytes from 192.168.4.1: icmp_seq=20 ttl=61 time=0.100 ms
+64 bytes from 192.168.4.1: icmp_seq=21 ttl=61 time=0.081 ms
+64 bytes from 192.168.4.1: icmp_seq=22 ttl=61 time=0.089 ms
+64 bytes from 192.168.4.1: icmp_seq=23 ttl=61 time=0.078 ms
+64 bytes from 192.168.4.1: icmp_seq=24 ttl=61 time=0.093 ms
+64 bytes from 192.168.4.1: icmp_seq=25 ttl=61 time=0.098 ms
+64 bytes from 192.168.4.1: icmp_seq=26 ttl=61 time=0.106 ms
+64 bytes from 192.168.4.1: icmp_seq=27 ttl=61 time=0.086 ms
+64 bytes from 192.168.4.1: icmp_seq=28 ttl=61 time=0.085 ms
+64 bytes from 192.168.4.1: icmp_seq=29 ttl=61 time=0.098 ms
+64 bytes from 192.168.4.1: icmp_seq=30 ttl=61 time=0.107 ms
+
+--- 192.168.4.1 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 29077ms
+rtt min/avg/max/mdev = 0.072/0.098/0.285/0.039 ms

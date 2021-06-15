@@ -1,0 +1,15 @@
+PING 192.168.3.1 (192.168.3.1) 56(84) bytes of data.
+64 bytes from 192.168.3.1: icmp_seq=1 ttl=60 time=0.113 ms
+64 bytes from 192.168.3.1: icmp_seq=2 ttl=60 time=0.124 ms
+64 bytes from 192.168.3.1: icmp_seq=3 ttl=60 time=0.149 ms
+64 bytes from 192.168.3.1: icmp_seq=4 ttl=60 time=0.087 ms
+64 bytes from 192.168.3.1: icmp_seq=5 ttl=60 time=0.152 ms
+64 bytes from 192.168.3.1: icmp_seq=6 ttl=60 time=0.091 ms
+64 bytes from 192.168.3.1: icmp_seq=7 ttl=60 time=0.080 ms
+64 bytes from 192.168.3.1: icmp_seq=8 ttl=60 time=0.094 ms
+64 bytes from 192.168.3.1: icmp_seq=9 ttl=60 time=0.108 ms
+64 bytes from 192.168.3.1: icmp_seq=10 ttl=60 time=0.179 ms
+
+--- 192.168.3.1 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9244ms
+rtt min/avg/max/mdev = 0.080/0.117/0.179/0.033 ms

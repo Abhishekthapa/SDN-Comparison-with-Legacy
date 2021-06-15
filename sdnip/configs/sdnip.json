@@ -1,0 +1,60 @@
+{
+    "bgpPeers" : [
+        {
+            "attachmentDpid" : "00:00:00:00:00:00:00:a1",
+	    "attachmentPort" : "1",
+            "ipAddress" : "10.0.1.1"
+        },
+	{
+            "attachmentDpid" : "00:00:00:00:00:00:00:a2",
+	    "attachmentPort" : "1",
+            "ipAddress" : "10.0.2.1"
+        }
+    ],
+    "bgpSpeakers" : [
+        {
+            "name" : "bgp",
+            "attachmentDpid" : "00:00:00:00:00:00:00:a3",
+            "attachmentPort" : "1",
+            "macAddress" : "00:00:00:00:00:01",
+            "interfaceAddresses" : [
+                {
+		    "interfaceDpid" : "00:00:00:00:00:00:00:a1",
+		    "interfacePort" : "1",
+                    "ipAddress" : "10.0.1.101"
+                },
+                {
+		    "interfaceDpid" : "00:00:00:00:00:00:00:a2",
+		    "interfacePort" : "1",
+                    "ipAddress" : "10.0.2.101"
+                }
+            ]
+        }
+    ],
+    "ip4LocalPrefixes" : [
+                    
+                    {
+                        "ipPrefix" : "10.0.10.0/24",
+                        "type" : "PUBLIC",
+                        "gatewayIp" : "10.0.10.254"
+                    },
+                    {
+                        "ipPrefix" : "192.168.1.0/24",
+                        "type" : "PRIVATE",
+                        "gatewayIp" : "192.168.1.254"
+                    },
+                    {
+                        "ipPrefix" : "192.168.3.0/24",
+                        "type" : "PUBLIC",
+                        "gatewayIp" : "192.168.3.254"
+                    },
+                    {
+                        "ipPrefix" : "192.168.4.0/24",
+                        "type" : "PUBLIC",
+                        "gatewayIp" : "192.168.4.254"
+                    }
+    ],
+    "ip6LocalPrefixes" : [
+    ],
+    "virtualGatewayMacAddress" : "00:00:00:00:00:01"
+}

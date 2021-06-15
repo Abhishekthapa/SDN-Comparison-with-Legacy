@@ -1,0 +1,15 @@
+PING 10.100.100.2 (10.100.100.2) 56(84) bytes of data.
+64 bytes from 10.100.100.2: icmp_seq=1 ttl=62 time=0.067 ms
+64 bytes from 10.100.100.2: icmp_seq=2 ttl=62 time=0.083 ms
+64 bytes from 10.100.100.2: icmp_seq=3 ttl=62 time=0.093 ms
+64 bytes from 10.100.100.2: icmp_seq=4 ttl=62 time=0.080 ms
+64 bytes from 10.100.100.2: icmp_seq=5 ttl=62 time=0.091 ms
+64 bytes from 10.100.100.2: icmp_seq=6 ttl=62 time=0.079 ms
+64 bytes from 10.100.100.2: icmp_seq=7 ttl=62 time=0.079 ms
+64 bytes from 10.100.100.2: icmp_seq=8 ttl=62 time=0.114 ms
+64 bytes from 10.100.100.2: icmp_seq=9 ttl=62 time=0.082 ms
+64 bytes from 10.100.100.2: icmp_seq=10 ttl=62 time=0.095 ms
+
+--- 10.100.100.2 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 8999ms
+rtt min/avg/max/mdev = 0.067/0.086/0.114/0.014 ms

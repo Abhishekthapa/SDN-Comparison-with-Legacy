@@ -1,0 +1,25 @@
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+64 bytes from 192.168.1.1: icmp_seq=1 ttl=59 time=0.094 ms
+64 bytes from 192.168.1.1: icmp_seq=2 ttl=59 time=0.086 ms
+64 bytes from 192.168.1.1: icmp_seq=3 ttl=59 time=0.094 ms
+64 bytes from 192.168.1.1: icmp_seq=4 ttl=59 time=0.093 ms
+64 bytes from 192.168.1.1: icmp_seq=5 ttl=59 time=0.095 ms
+64 bytes from 192.168.1.1: icmp_seq=6 ttl=59 time=0.092 ms
+64 bytes from 192.168.1.1: icmp_seq=7 ttl=59 time=0.094 ms
+64 bytes from 192.168.1.1: icmp_seq=8 ttl=59 time=0.095 ms
+64 bytes from 192.168.1.1: icmp_seq=9 ttl=59 time=0.096 ms
+64 bytes from 192.168.1.1: icmp_seq=10 ttl=59 time=0.088 ms
+64 bytes from 192.168.1.1: icmp_seq=11 ttl=59 time=0.107 ms
+64 bytes from 192.168.1.1: icmp_seq=12 ttl=59 time=0.095 ms
+64 bytes from 192.168.1.1: icmp_seq=13 ttl=59 time=0.099 ms
+64 bytes from 192.168.1.1: icmp_seq=14 ttl=59 time=0.155 ms
+64 bytes from 192.168.1.1: icmp_seq=15 ttl=59 time=0.092 ms
+64 bytes from 192.168.1.1: icmp_seq=16 ttl=59 time=0.111 ms
+64 bytes from 192.168.1.1: icmp_seq=17 ttl=59 time=0.093 ms
+64 bytes from 192.168.1.1: icmp_seq=18 ttl=59 time=0.108 ms
+64 bytes from 192.168.1.1: icmp_seq=19 ttl=59 time=0.113 ms
+64 bytes from 192.168.1.1: icmp_seq=20 ttl=59 time=0.099 ms
+
+--- 192.168.1.1 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19065ms
+rtt min/avg/max/mdev = 0.086/0.099/0.155/0.019 ms

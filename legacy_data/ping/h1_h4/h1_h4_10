@@ -1,0 +1,15 @@
+PING 192.168.4.1 (192.168.4.1) 56(84) bytes of data.
+64 bytes from 192.168.4.1: icmp_seq=1 ttl=60 time=0.154 ms
+64 bytes from 192.168.4.1: icmp_seq=2 ttl=60 time=0.086 ms
+64 bytes from 192.168.4.1: icmp_seq=3 ttl=60 time=0.086 ms
+64 bytes from 192.168.4.1: icmp_seq=4 ttl=60 time=0.085 ms
+64 bytes from 192.168.4.1: icmp_seq=5 ttl=60 time=0.085 ms
+64 bytes from 192.168.4.1: icmp_seq=6 ttl=60 time=0.088 ms
+64 bytes from 192.168.4.1: icmp_seq=7 ttl=60 time=0.111 ms
+64 bytes from 192.168.4.1: icmp_seq=8 ttl=60 time=0.084 ms
+64 bytes from 192.168.4.1: icmp_seq=9 ttl=60 time=0.083 ms
+64 bytes from 192.168.4.1: icmp_seq=10 ttl=60 time=0.104 ms
+
+--- 192.168.4.1 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9007ms
+rtt min/avg/max/mdev = 0.083/0.096/0.154/0.023 ms
