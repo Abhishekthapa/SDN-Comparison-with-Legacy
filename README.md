@@ -10,3 +10,5 @@
 7.  Use DITG and iperf application to gather further data.
 
 For Legacy setup, just run legacy.py file and do ping DITG and iperf operation.
+In the datasets folder, 'legacy_data' and 'sdn_data' folders contain output of PING and 
+'sdn_dataset.csv' file contains output of DITG obtained from our experiment.
