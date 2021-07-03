@@ -1,17 +1,17 @@
 #!/bin/bash
 
 #Bash script to test ping between hosts
-dest=$1
-if [[ $# -ne 4 ]] 
-then
-   echo "Usage : vary_packet.sh <destination_IP> <folder_name> <file_name> <sdn/legacy>"
-   echo "****************************"
-   echo "Destination_ip is the Ip to ping"
-   echo "folder_name convention is to use two hosts being pinged , h1_h2 , where h1 is source, h2 is destination"
-   echo "file_name is the file_name to be saved under"
-   echo "sdn/legacy to differentiate"
-   exit 2
-fi
+#dest=$1
+#if [[ $# -ne 4 ]] 
+#then
+#   echo "Usage : vary_packet.sh <destination_IP> <folder_name> <file_name> <sdn/legacy>"
+#   echo "****************************"
+#   echo "Destination_ip is the Ip to ping"
+#   echo "folder_name convention is to use two hosts being pinged , h1_h2 , where h1 is source, h2 is destination"
+#   echo "file_name is the file_name to be saved under"
+#   echo "sdn/legacy to differentiate"
+#   exit 2
+#fi
 
 h2="10.100.200.2"
 h1="10.100.100.2"
