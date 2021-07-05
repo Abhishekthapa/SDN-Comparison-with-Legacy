@@ -1,4 +1,4 @@
-# MajorProject
+# How To Run
 
 #setup and step by step procedure:
 1. Install a SDN IP VM from ONOS's website.
