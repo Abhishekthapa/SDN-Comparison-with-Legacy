@@ -50,7 +50,7 @@ do
 			for i in $(seq 5 5 100)
 			do
 				mkdir -p ./${network_type}_data/ping/$file_name
-			  	mdevrtt=$(ping $ip -c $i | tee ./${network_type}_data/ping/$file_name/${file_name}_$i | grep "mdev" | cut -d '/' -f 7 | cut -d " " -f 1)
+			  	mdevrtt=$(ping $ip -c $i | tee ./${network_type}_data/ping/$file_name/${file_name}_${i}_${j} | grep "mdev" | cut -d '/' -f 7 | cut -d " " -f 1)
 			  date=$(date)
 			  echo "$date $network_type $file_name $i : $mdevrtt" >> rtt_data
 			  tail -n 1 rtt_data 
