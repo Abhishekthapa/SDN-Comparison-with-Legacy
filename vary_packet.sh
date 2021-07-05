@@ -26,7 +26,8 @@ my_ip=$(ifconfig | grep "Bcast" | cut -f ':' -f 2 | cut -d ' ' -f 1)
 my_host=$(ifconfig | head -n 1 | cut -d '-' -f 1)
 
 network_type="sdn"
-
+for i in {1..5}
+do
 for ip in ${ips[@]}
 do
 	if [[ $ip != my_ip ]] 
@@ -56,4 +57,5 @@ do
 
 			done
 	fi
+done
 done
