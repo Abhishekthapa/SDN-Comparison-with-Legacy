@@ -1,4 +1,17 @@
-# How To Run
+In this project,we  compare the network performance of the legacy network with SDN for IP routing in order to determine the feasibility of an SDN deployment for the Internet service provider (ISP) network. The simulation of the network is performed in the Mininet test-bed and the network traffic is generated using distributed Internet traffic generator. Round trip time, bandwidth, and packet transmission rate from both of these networks are first collected and then the comparison is done. We found that SDN-IP provides better bandwidth and latency compared to legacy routing. The experimental analysis of interoperability between SDN and legacy network shows that SDN implementation in production level carrier-grade ISP network is viable and progressive.
+
+# Tools
+* Mininet Simulation Environment ( 2.2.1 )
+* ONOS 1.2.1 ( SDN Controller )
+* Quagga Routing Suite ( 0.99.23 )
+* Ubuntu 14.10 ( 64-bit )
+* Hypervisor : VirtualBox ( 2 core, 4096 MB )
+* DITG , PING , IPERF ( Data Collection )
+* Matplotlib ( Visualization and Analysis )
+
+
+
+# Running The Code
 
 #setup and step by step procedure:
 1. Install a SDN IP VM from ONOS's website.
