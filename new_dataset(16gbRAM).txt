@@ -1,3 +1,5 @@
+Every link in the network had 1ms delay.
+
 Mon Jul  5 02:45:29 PDT 2021 sdn h2_h2 5 : 0.005
 Mon Jul  5 02:45:32 PDT 2021 sdn h1_h2 5 : 0.070
 Mon Jul  5 02:45:34 PDT 2021 sdn h3_h2 5 : 0.073
