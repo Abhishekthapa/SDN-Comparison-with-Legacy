@@ -1,3 +1,4 @@
+Every link in the network at 0ms delay.
 Numerical value means mdev got from PING test
 
 Mon Jul  5 07:34:33 PDT 2021 sdn h1_h2 5 : 0.136
