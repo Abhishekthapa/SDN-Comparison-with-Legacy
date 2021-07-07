@@ -1,3 +1,5 @@
+Numerical value means mdev got from PING test
+
 Mon Jul  5 07:34:33 PDT 2021 sdn h1_h2 5 : 0.136
 Mon Jul  5 07:34:42 PDT 2021 sdn h1_h2 10 : 0.016
 Mon Jul  5 07:35:01 PDT 2021 sdn h1_h2 20 : 0.039
