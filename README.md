@@ -9,6 +9,9 @@ In this project,we  compare the network performance of the legacy network with S
 * DITG , PING , IPERF ( Data Collection )
 * Matplotlib ( Visualization and Analysis )
 
+# Visual Data Flow
+![Data Flow](/images/paper_images/data_flow.png)
+
 
 
 # Running The Code
