@@ -17,7 +17,7 @@ In this project,we  compare the network performance of the legacy network with S
 # Running The Code
 
 #setup and step by step procedure:
-1. Install a SDN IP VM from ONOS's website or you can download vmdk of VM from here:https://drive.google.com/file/d/194_LlT3n8h-gXN5aC62JhaZtrR1yqoNG/view?fbclid=IwAR3wXKNCYl9d7eTTY8YgbxlAwaFcYcvBYmcpbj0qfCtHBHq28jXjv5V-KtU  .
+1. Install a SDN IP VM from ONOS's website or you can download vmdk of VM from [here](https://drive.google.com/file/d/194_LlT3n8h-gXN5aC62JhaZtrR1yqoNG/view?fbclid=IwAR3wXKNCYl9d7eTTY8YgbxlAwaFcYcvBYmcpbj0qfCtHBHq28jXjv5V-KtU).
 2. Run VM and reset the application.
 3. Open terminal and go to the folder containing topology file.
 4. Run the topology.
